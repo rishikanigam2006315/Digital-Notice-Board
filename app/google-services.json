@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "452368313283",
+    "firebase_url": "https://digital-notice-board-e9f80-default-rtdb.firebaseio.com",
+    "project_id": "digital-notice-board-e9f80",
+    "storage_bucket": "digital-notice-board-e9f80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452368313283:android:ae2211dbdead0de895ab76",
+        "android_client_info": {
+          "package_name": "com.example.digitalnoticeboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPrdXEcpHMKoL28mv2moUx3HaJDPlKSLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452368313283:android:d9c02f80dadd2d5a95ab76",
+        "android_client_info": {
+          "package_name": "example.digitalnoticeboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPrdXEcpHMKoL28mv2moUx3HaJDPlKSLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
